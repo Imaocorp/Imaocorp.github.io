@@ -3,7 +3,8 @@ body {
   margin: auto;
   font-family: sans-serif;
   text-align: center;
-  background: rgb(56, 56, 56);
+  background: rgba(0,0,0, 0.5);
+  backdrop-filter: blur(50px);
   color: white;
 }
 
