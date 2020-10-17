@@ -1,6 +1,6 @@
 # LMAOcorp website
 
-> <https://lmaocorp.ml> - the funny
+> <https://LMAOcorp.ml> - the funny
 
 ## lol
 
