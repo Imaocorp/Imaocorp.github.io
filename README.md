@@ -1,6 +1,6 @@
 # LMAOcorp website
 
-> <https://LMAOcorp.ml> - the funny
+> <https://LMAOcorp.ml> - old domain site now dead
 
 ## lol
 
